@@ -6,7 +6,6 @@ public class Book {
     private String title;
     private String publishedAt;
     private String publisher;
-
     private List<String> departments;
     private String language;
     private String author;
